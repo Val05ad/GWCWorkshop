@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 
-    cout << "GWC is the best!" << endl;
+    cout << "GWC is the awesome!" << endl;
     return 0;
 
 }
